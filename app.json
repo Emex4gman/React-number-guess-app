@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "emex",
-    "slug": "emex",
+    "name": "numberguessgame",
+    "slug": "numberguessgame",
     "privacy": "public",
     "sdkVersion": "35.0.0",
     "platforms": [
