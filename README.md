@@ -1,4 +1,4 @@
-# React-number-guess-app
+# React-native-number-guess-app
 A number guess app built with react-native
 
 # react-native-app
